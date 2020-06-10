@@ -190,7 +190,7 @@ def requests(name, sock):
 
 def main():
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    s.bind(('147.26.231.156', 1234))
+    s.bind(('IP_ADDR', PORT))
 
     s.listen(5)
     print "Socket is listening"
