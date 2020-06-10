@@ -1,5 +1,7 @@
 This document shall server as the README for the client-server project 1:
 
+This project will demonstrate a basic file transfer system using the TCP method. 
+
 In this project folder are two separate sub folders titled "Client" and "Server":
 	-both of these folders contain a single python file.
 		a.) the Client folder has client.py 
