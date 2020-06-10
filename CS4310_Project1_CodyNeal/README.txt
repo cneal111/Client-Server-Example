@@ -6,10 +6,8 @@ In this project folder are two separate sub folders titled "Client" and "Server"
 		b.) the Server folder has server.py and studentrecords.txt
 
 RUNNING THE PROGRAM:
-In order to run these files, they will need to be ran on the Texas State zeus
-and eros servers or as a localhost. 
 
--If using the files for localhost use, they will need to be edited to bind the sockets to '127.0.0.1'.
+-If using the files for localhost use, they will need to be edited to bind the sockets to localhost, otherwise provide the credentials for your server in both files and an appropriate port.
 
 -After reaching the appropriate directories you will run the files.
 
