@@ -1,0 +1,4 @@
+000001	Cody	Neal	93
+000002	Bob	Doe	85
+000004	Dwight	Schrutt	60
+000005	Michael	Scott	100
